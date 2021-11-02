@@ -1,0 +1,4 @@
+repository "project2-project2_group_14@ssl://loading8425@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/minliu2" 
+     
